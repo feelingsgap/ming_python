@@ -1,0 +1,5 @@
+print(int("3"))
+print(int(3.7))
+print(float("9.9"))
+print(float("7"))
+print(str(7) + "아닌데.")

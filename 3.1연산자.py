@@ -1,0 +1,7 @@
+print(1+1)
+print(3-1)
+print(6*8)
+print(8/4)
+print(3**3)
+print(14%3)
+print(15//7)
